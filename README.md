@@ -25,6 +25,5 @@ I just was curious how hard it would be to port their project to Python and want
 - **You need to check the terms of usage for the data on the respective sites – see links in the notebook – and use the data accordingly.** 
 - This notebook is created **purely for educational purposes** and comes **without any licenses for the data.** 
 
-*License concerning the code and the maps produced: CC-BY-SA (as defined by original authors).*
-
+*License concerning the code and the maps produced: CC-BY-SA (as defined by original authors).*<br>
 *Data licenses: See respective websites of data providers. Link are provided in the Jupyter notebook.*
