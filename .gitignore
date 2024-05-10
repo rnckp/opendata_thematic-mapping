@@ -28,9 +28,7 @@
 *.txt
 *.otf
 
-
 .ipynb_checkpoints/*
-
 
 _input/ch_relief_bw.tif
 !input/qgis_raster_01.png

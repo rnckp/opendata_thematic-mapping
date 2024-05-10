@@ -26,7 +26,7 @@ I just was curious how hard it would be to port their project to Python and want
 **Usage**
 - Install the required packages with `pip install -r requirements.txt`.
 - An easy way to install GDAL (necessary to run the notebook): `conda install -c conda-forge gdal`.
-- Run all cells in the `[main notebook](01_Thematic-Mapping.ipynb) 
+- Run all cells in the [main notebook](01_Thematic-Mapping.ipynb) 
 
 **⚠️ Important note**
 
