@@ -1,8 +1,8 @@
 # Thematic Mapping Switzerland
 
 [![PyPI - Python](https://img.shields.io/badge/python-v3.9+-blue.svg)](https://github.com/rnckp/opendata_thematic-mapping)
-[![GitHub Stars](https://img.shields.io/github/stars/rnckp/rnckp/opendata_thematic-mapping.svg)](https://github.com/rnckp/opendata_thematic-mapping)
-[![GitHub Issues](https://img.shields.io/github/issues/rnckp/rnckp/opendata_thematic-mapping.svg)](https://github.com/rnckp/opendata_thematic-mapping) 
+[![GitHub Stars](https://img.shields.io/github/stars/rnckp/opendata_thematic-mapping.svg)](https://github.com/rnckp/opendata_thematic-mapping)
+[![GitHub Issues](https://img.shields.io/github/issues/rnckp/opendata_thematic-mapping.svg)](https://github.com/rnckp/opendata_thematic-mapping) 
 
 
 In this notebook, I try to **port to Python a very clever and inspiring mapping technique that [Timo Grossenbacher](https://timogrossenbacher.ch/) and [Benja Zehr](https://benjazehr.ch/) have created in R.** 
