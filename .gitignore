@@ -25,7 +25,6 @@
 *.tfw
 *.html
 *.reg
-*.txt
 *.otf
 
 .ipynb_checkpoints/*
@@ -38,3 +37,4 @@ _input/ch_relief_bw.tif
 
 
 
+_downloads/20161001_SMV1000_SHAPE_CHLV95/InfoSMV1M.txt
